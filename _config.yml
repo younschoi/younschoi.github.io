@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Younschoi - GitHub Pages"
+title                    : "My - GitHub Pages"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Troy C"
-description              : "Data Science"
+name                     : "No Name"
+description              : "Data"
 url                      : "https://younschoi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
